@@ -51,4 +51,4 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CriDevs&show_icons=true&theme=tokyonight)
 [![CriDevs](https://github-readme-stats.vercel.app/api/top-langs/?username=CriDevs&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/CriDevs/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/CristianDAntonio/blob/output/github-contribution-grid-snake.svg)
